@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='TowelStuff',
+    name='mysql',
     version='0.1dev',
     description='MySQL testing',
     author='Benedikt Hensel',
